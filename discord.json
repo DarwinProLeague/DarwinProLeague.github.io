@@ -1,0 +1,13 @@
+{
+	"title": "Darwin Pro League",
+	"height": 600,
+	"width": 600,
+	"thumbnail_height": 600,
+	"thumbnail_width": 600,
+	"version": "1.0",
+	"color": 8400807,
+	"provider_name": "Join the Discord ⬅",
+	"type": "video",
+	"thumbnail_url": "https://darwinproleague.github.io/assets/DPLTwit.png",
+	"provider_url": "https://discordapp.com/invite/VyxDXYc"
+}
